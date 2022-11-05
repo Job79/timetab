@@ -1,0 +1,22 @@
+body {
+    background: #f9f5d7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+main {
+    font-family: Product;
+    color: #7c6f64;
+    text-align: center;
+}
+
+main .time {
+    font-size: 8rem;
+}
+
+main .date {
+    font-size: 2rem;
+}
